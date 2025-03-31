@@ -1,9 +1,11 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const element = React.createElement(
   "h1",
   {
     id: "greeting",
-    class: "greeting",
-    style: { color: "blue", fontSize: "20px" },
+    className: "greeting-class",
   },
   "Hello, from reactJS js shivam!"
 );
