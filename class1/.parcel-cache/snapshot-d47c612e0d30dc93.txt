@@ -1,4 +1,4 @@
-4341
+4343
 89C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\globals\package.json133878949619294320 0
 94C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@parcel\utils\src\svgo.js133878949654014326 0
 130C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@parcel\error-overlay\src\containers\RuntimeErrorContainer.js133878949625314326 0
@@ -6,7 +6,7 @@
 112C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@parcel\core\src\requests\PackageRequest.js133878949654544311 0
 103C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@parcel\logger\test\Logger.test.js133878949654304349 0
 126C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\posthtml\node_modules\dom-serializer\lib\esm\package.json133878949619704319 0
-60C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist133879003496320364 1
+60C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist133879128516666105 1
 81C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\argparse\lib133878949619494347 1
 98C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\domutils\lib\esm\index.js.map133878949621114340 0
 100C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\caniuse-lite\data\regions\SE.js133878949629524306 0
@@ -56,7 +56,7 @@
 100C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\caniuse-lite\data\regions\BM.js133878949622474330 0
 83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\domelementtype133878949619854309 1
 84C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\is-glob\LICENSE133878949618494322 0
-68C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\package.json133878974456811843 0
+68C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\package.json133879128466185312 0
 99C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\type-fest\source\value-of.d.ts133878949621554323 0
 105C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@parcel\source-map\dist\node.js.flow133878949618574311 0
 78C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\is-number133878949619064318 1
@@ -531,7 +531,7 @@
 121C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133878949623964333 0
 89C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@parcel\rust\LICENSE133878949624284315 0
 83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\parcel\LICENSE133878949647444333 0
-79C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.e02fbd41.js133879003496260234 0
+79C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.e02fbd41.js133879128516606117 0
 100C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\caniuse-lite\data\regions\LU.js133878949628044314 0
 93C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\utility-types\SUPPORT.md133878949620524309 0
 114C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\@swc\helpers\_\_class_private_field_loose_key133878949624284315 1
@@ -4337,6 +4337,8 @@
 100C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\node_modules\.bin\update-browserslist-db.ps1133878949842731761 0
 79C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.3464ddca.js133878969936679723 0
 83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.3464ddca.js.map133878969936699735 0
+79C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.a06519a5.js133879005075026277 0
+83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.a06519a5.js.map133879005075123643 0
 83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.c36f364e.js.map133878969936699735 0
-83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.e02fbd41.js.map133879003496310230 0
-71C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\index.html133878981099301153 0
+83C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\class1.e02fbd41.js.map133879128516666105 0
+71C:\Users\sk776\Desktop\dev\ss\namaste_react_2025\class1\dist\index.html133879005075026277 0
